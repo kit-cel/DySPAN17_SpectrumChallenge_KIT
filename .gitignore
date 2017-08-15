@@ -1,0 +1,9 @@
+build/
+cython/
+*~
+examples/*.py
+.idea/
+*.pyc
+*.pyo
+perf*
+flowgraphs/*.py

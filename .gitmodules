@@ -1,0 +1,4 @@
+[submodule "gr-fbmc"]
+	path = gr-fbmc
+	url = https://github.com/kit-cel/gr-fbmc
+	branch = master
